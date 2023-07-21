@@ -7,7 +7,7 @@ const Navbar = () => {
     //console.log("Navbar currentuser=",Object.entries(currentUser));
     return ( 
         <div className="navbar">
-            <span className="logo">Lama chat</span>
+            <span className="logo">Chat</span>
             <div className="user">
                 <img src={currentUser.photoURL} alt="" />
                 <span>{currentUser.displayName}</span>
