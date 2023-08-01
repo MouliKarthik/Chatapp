@@ -1,2 +1,2 @@
 
-### Host link [https://chat-256cd.web.app]
+### Host link: https://chat-256cd.web.app
